@@ -1,4 +1,4 @@
-![Header](https://share.creavite.co/65ddeae2c218bea4a1205263.gif)
+![image](https://github.com/user-attachments/assets/7d28640c-0542-4ada-8cc1-1d1647c7896b)![Header](https://share.creavite.co/65ddeae2c218bea4a1205263.gif)
 
 ##### Hi, I'm Ahmed Shaker:
 
@@ -17,7 +17,6 @@
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -32,8 +31,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=React&logoColor=61DAFB)
+![Angular](https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
