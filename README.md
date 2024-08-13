@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/7d28640c-0542-4ada-8cc1-1d1647c7896b)![Header](https://share.creavite.co/65ddeae2c218bea4a1205263.gif)
 
 ##### Hi, I'm Ahmed Shaker:
 
