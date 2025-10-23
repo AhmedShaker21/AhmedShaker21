@@ -2,7 +2,7 @@
 
 ##### Hi, I'm Ahmed Shaker:
 
-- 🎓Student in Sadat Academy For Management Science
+- 🎓Graduated From Sadat Academy For Management Science
 - :test_tube: I am trying to gain experience in the field of programming, so I decided to become one Full Stack developer 
 - 🪐 I aspire to work in the largest software company in the Middle East
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
